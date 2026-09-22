@@ -17,7 +17,7 @@ Error: Command failed: git rev-parse HEAD
   status: 1,
   signal: null,
   output: [ null, '', null ],
-  pid: 56891,
+  pid: 57644,
   stdout: '',
   stderr: null
 }
